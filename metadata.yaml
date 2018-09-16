@@ -1,5 +1,8 @@
 _repo: A-Journey-through-Persia-Armenia-and-Asia-Minor-to-Constantinople-in-the-Years-1808-and-1809-__51819
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51819-h/images/cover.jpg
 creator:
   author:
     agent_name: Morier, James Justinian
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9861
     wikipedia: http://en.wikipedia.org/wiki/James_Justinian_Morier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51819#A-Journey-through-Persia-Armenia-and-Asia-Minor-to-Constantinople-in-the-Years-1808-and-1809-_
 gutenberg_issued: '2016-04-21'
 gutenberg_type: Text
 identifiers:
