@@ -1,0 +1,33 @@
+_repo: A-Journey-through-Persia-Armenia-and-Asia-Minor-to-Constantinople-in-the-Years-1808-and-1809-__51819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morier, James Justinian
+    alias: Morier, Jacob
+    deathdate: 1849
+    gutenberg_agent_id: '9861'
+    url: http://www.gutenberg.org/2009/agents/9861
+    wikipedia: http://en.wikipedia.org/wiki/James_Justinian_Morier
+description: ''
+gutenberg_issued: '2016-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51819'
+  lccn: 04014690
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- Description and travel'
+- !lcsh 'Middle East -- Description and travel'
+- !lcsh 'Turkey -- Description and travel'
+- !lcsh 'Armenia -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'A Journey through Persia, Armenia, and Asia Minor, to Constantinople, in the
+  Years 1808 and 1809
+
+  In Which is Included, Some Account of the Proceedings of His Majesty''s Mission,
+  under Sir Harford Jones, Bart. K. C. to the Court of Persia'
+url: http://www.gutenberg.org/ebooks/51819
